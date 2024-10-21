@@ -1,0 +1,22 @@
+>>>>>>>>>>>>CSS এর তিনটি পদ্ধতি<<<<<<<<<<<<<
+
+1.inline CSS
+2.Internal CSS
+3.extarnel CSS
+
+
+>>>>>>>>>>>>some special tag<<<<<<<<<<<
+<div></div>
+<style></style>
+<script></script>
+
+
+>>>>>>>>>>>CSS Identifired<<<<<<<<<<<<<<
+1.tag
+2.class
+3.Id 
+ 
+
+                 class এর জন্য (.)
+                 Id এর জন্য (#)
+
